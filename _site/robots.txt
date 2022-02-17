@@ -1,1 +1,1 @@
-Sitemap: https://erc-tori.github.io//sitemap.xml
+Sitemap: https://tori-consulting.github.io//sitemap.xml
