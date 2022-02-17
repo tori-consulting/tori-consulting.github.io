@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: "Next generation data reduction<br> with Topological Data Analysis"
+title: "Topological Data Analysis Expertise"
 layout: default
 teaser: '/img/toriBanner.png'
 ---
@@ -17,14 +17,13 @@ teaser: '/img/toriBanner.png'
 <tr>
 <td>
                 &nbsp;&middot;&nbsp;
-                TORI's website is online!
+                TORI Consulting's website is online!
                 </td>
                 <td align="right">
-                [Feb. 18, 2021]
+                [Feb. 17, 2022]
                 </td>
                 </tr>
               </table>
 </div>
 
-Welcome to TORI Consulting's website.
-
+Welcome to TORI Consulting's website!

@@ -7,7 +7,7 @@ teaser: '/img/toriBanner.png'
 
 Enjoy some TORI eye candy :)
 
-<div class="jekyll-twitter-plugin"><a class="twitter-timeline" href="https://twitter.com/ErcTori?ref_src=twsrc%5Etfw">Tweets by ErcTori</a>
+<div class="jekyll-twitter-plugin"><a class="twitter-timeline" href="https://twitter.com/JulienTierny?ref_src=twsrc%5Etfw">TORI Tweets</a>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 

@@ -5,8 +5,6 @@ permalink: /software/
 teaser: '/img/toriBanner.png'
 ---
 
-TORI's research is implemented and distributed in the following open-source library:
-
 <table>
   <tr>
         <td width='30%'>
