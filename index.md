@@ -17,6 +17,18 @@ teaser: '/img/toriBanner.png'
 <tr>
 <td>
                 &nbsp;&middot;&nbsp;
+                Checkout our training session on 
+                <a target="new" href="https://www.kitware.eu/topological-data-analysis-with-ttk-training/">
+                Topological Data Analysis with TTK
+                </a> with Kitware!
+                </td>
+                <td align="right">
+                [Apr. 26, 2022]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
                 TORI Consulting's website is online!
                 </td>
                 <td align="right">
