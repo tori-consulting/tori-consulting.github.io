@@ -5,6 +5,8 @@ permalink: /software/
 teaser: '/img/toriBanner.png'
 ---
 
+TORI Consulting provides a premier expertise on a leading open-source technology in Topological Data Analysis.
+
 <table>
   <tr>
         <td width='30%'>
