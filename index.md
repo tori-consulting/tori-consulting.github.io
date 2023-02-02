@@ -44,4 +44,4 @@ For this, TORI Consulting leverages a premier expertise on <a href="http://topol
 interfaced with industry standards.
 
 If you are looking for training and support,
-please feel free to [contact us](mailto:tori-consulting@googlegroups.com).
+please feel free to [contact us](mailto:tori.tda.consulting@gmail.com).
